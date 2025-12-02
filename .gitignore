@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.zip
+*.log
+*.pth
+*.pt
+*/tensorboard/
+*/saved_models/
+.vscode/
+.idea/
