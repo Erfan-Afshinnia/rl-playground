@@ -1,10 +1,13 @@
+# Python cache
 __pycache__/
 *.pyc
+
+# RL models and logs
 *.zip
+*_tensorboard/
+tensorboard/
 *.log
-*.pth
-*.pt
-*/tensorboard/
-*/saved_models/
+
+# IDE configs
 .vscode/
 .idea/
